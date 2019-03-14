@@ -1,0 +1,54 @@
+<style type="text/css">
+{display:block}
+#cabecalho{margin:0;
+text-align:center;
+background-color:darkgrey;
+color:white;
+}
+
+#corpo{
+width:400px;
+padding:20px;
+font-size:25px;
+text-align:center;
+background-color:lightgrey;
+margin:0 auto;
+border-type:solid;
+}
+#cabecalho p{
+color:red;
+font-size:25px;
+}
+
+#sumario h3{
+font-size:20px;
+background-color:darkgrey;
+
+
+}
+
+#formacao_academica h3{
+font-size:20px;
+background-color:darkgrey;
+}
+
+#rodape{
+width:300px;
+background-color:darkgrey;
+text-align:center;
+margin:0 auto;
+}
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+</style>
